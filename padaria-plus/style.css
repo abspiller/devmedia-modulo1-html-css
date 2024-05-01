@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f0e5;
+}
+
+.secao {
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+    font-family: Tahoma;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.imagem-logotipo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+a {
+    margin: 0 10px;
+    color: #542f0c;
+}
+
+h1 {
+    font-size: 28px;
+    border-top: 1px solid #de8e37;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-weight: normal;
+    color: #de8e37;
+    margin: 20px;
+}
+
+.imagem-produtos {
+    width: 700px;
+}
+
+.secao-destaque {
+    background-color: #de8e37;
+    padding-top: 40px;
+    color: #f4f0e5;
+}
+
+.secao-destaque h3 {
+    font-size: 24px;
+    background-color: #de8e37;
+    margin-bottom: 30px;
+}
+
+.secao-destaque h4 {
+    font-size: 20px;
+    background-color: #de8e37;
+    margin-bottom: 15px;
+}
+
+.secao-destaque p {
+    background-color: #de8e37;
+    width: 500px;
+    margin: auto;
+    line-height: 30px;
+}
+
+.secao-destaque img {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.secao-contato h3 {
+    margin-bottom: 15px;
+}
+
+.secao-contato p {
+    line-height: 35px;
+}
+
+.secao-contato span {
+    font-weight: bold;
+}
+
